@@ -1,0 +1,16 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /snnLab-service-discovery
+
+spring:
+  application:
+    name: snnLab-service-discovery
+
+eureka:
+  server:
+    enableSelfPreservation: true
+    maxThreadsForPeerReplication: 0
+  client:
+    registerWithEureka: false
+    fetchRegistry: false

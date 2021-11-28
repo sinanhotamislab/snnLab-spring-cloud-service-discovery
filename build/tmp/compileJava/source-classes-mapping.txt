@@ -1,0 +1,4 @@
+com/snnlab/servicediscovery/ServiceDiscoveryApplication.java
+ com.snnlab.servicediscovery.ServiceDiscoveryApplication
+com/snnlab/servicediscovery/Test.java
+ com.snnlab.servicediscovery.Test
